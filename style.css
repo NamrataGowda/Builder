@@ -1,6 +1,30 @@
 .navbar{
     background: #000;
-    color:#fff;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: right;
+    height:147px;
+    border: 2px solid;
+    border-bottom-color: #fff;
+}
+.navbar a{
+    color: #fff;
+    padding: 70px;
+    text-decoration: none;
+}
+.container{
+    display: flex;
+
+}
+.flap{
+    height: 466.5px;
+    width: 959px;
+}
+#blue{
+    background: #2D34D5;
+}
+#green{
+    background: #17AE38;
+}
+#black{
+    background: #000;
 }
